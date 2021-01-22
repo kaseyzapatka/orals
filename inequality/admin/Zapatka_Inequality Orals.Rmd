@@ -1,0 +1,65 @@
+---
+title: "Inequality Oral Exam Reading List"
+subtitle: "with Leslie McCall"
+author: "Kasey Zapatka"
+affiliation: "The Graduate Center, CUNY"
+bibliography: Orals.bib
+output: pdf_document
+
+---
+
+# Patterns, Trends, and Definitions
+
+- **Atkinson,**  Inequality: What Can Be Done?  [-@Atkinson2015]
+- **Corak,**  Income Inequality, Equality of Opportunity, and Intergenerational Mobility [-@Corak2013] 
+- **Kalleberg,**  Precarious Work, Insecure Workers [-@Kalleberg2009]
+- **Gornick and Smeeding.**  Redistributional Policy in Rich Countries [-@Gornick2018] 
+- **Piketty and Saez,**  Income Inequality in the United States [-@Piketty2003]
+- **Piketty and Saez,**  Inequality in the Long Run  [-@Piketty2014]
+- **McCall and Percheski,**  Income Inequality: New Trends and Research Directions [-@McCall2010]
+- **Western et. al.**  Economic Insecurity and Social Stratification [-@Western2012]
+
+
+# Wealth and Inequality
+
+- **Di, Belsky, and Liu,**  Do Homeowners Achieve More Household Wealth in the Long Run?  [-@Di2007]
+- **Gibson-Davis and Percheski,**  Children and the Elderly: Wealth Inequality Among America’s Dependents  [-@GibsonDavis2018]
+- **Keister and Moller,**  Wealth Inequality in the United States [-@Keister2000]
+- **Killewald and Bryan,**  Does Your Home Make You Wealthy? [-@Killewald2016]
+- **Killewald, Pfeffer, and Schachner,**  Wealth Inequality and Accumulation [-@Killewald2017]
+- **Oliver and Shapiro,**  Black Wealth/White Wealth: A New Perspective on Racial Inequality  [-@Oliver1995]
+- **Pfeffer et. al.,**  Wealth Disparities Before and After the Great Recession [-@Pfeffer2013]
+- **Spilerman,**  Wealth and Stratification Process [-@Spilerman2000]
+- **Turner and Luea,**  Homeownership, Wealth Accumulation and Income Status [-@Turner2009]
+- **Wolff,**  Household Wealth Trends in the United States, 1962 to 2013 [-@Wolff2016]
+
+# Urban and Spatial Inequality: Neighborhood Effects
+
+- **Crowder and South,**  Spatial Dynamics of White Flight  [-@Crowder2008]
+- **Chetty and Hendren**  The Impacts of Neighborhoods on Intergenerational Mobility I: Childhood Exposure Effects  [-@Chetty2018]
+- **Galster and Sharkey,**  Spatial Foundations of Inequality: A Conceptual Model and Empirical Overview [-@Galster2017]
+- **Harding,** Counterfactual Models of Neighborhood Effects: The Effect of Neighborhood Poverty on Dropping Out and Teenage Pregnancy [-@Harding2003]
+- **Imbroscio,** “[U]nited and Actuated by Some Common Impulse of Passion”: Challenging the Dispersal Consensus in American Housing Policy Research [-@Imbroscio2008]
+- **Reardon and Bischoff,** Income Inequality and Income Segregation [-@Reardon2011a]
+- **Reardon and Bischoff,** The Continuing Increase in Income Segregation, 2007-2012 [-@Bischoff2012]
+- **Sampson et. al.,**  Assessing “Neighborhood Effects”: Social Processes and New Directions in Research [-@Sampson2002]
+- **Sharkey,**  Stuck in Place: Urban Neighborhoods and the End of Progress Toward Racial Equality [-@Sharkey2013]
+- **Sharkey and Faber,**  Where, When, Why, and For Whom Do Residential Contexts Matter?  [-@Sharkey2014]
+- **Slater,**  Your Life Chances Affect Where You Live: A Critique of the ‘Cottage Industry’ of Neighbourhood Effects Research [-@Slater2013]
+
+
+# U.S. Zoning and Housing Policy
+
+- **Angotti,** Zoned out!: Race, Displacement, and City Planning in New York City  [-@Angotti2016]
+- **Fischel,** An Economic History of Zoning and a Cure for its Exclusionary Effects  [-@Fischel2004]
+- **Galster,**  U.S. Housing Scholarship, Planning, and Policy Since 1968  [-@Galster2008]
+- **Glaeser, Gyourko, and Saks,** Why is Manhattan So Expensive?: Regulation and the Rise in Housing Prices [-@Glaeser2005a]
+- **Hsiehi and Moretti,** Housing Contraints and Spatial Misallocation  [-@Hsiehi2018]
+- **Immergluck,** The Foreclosure Crisis, Foreclosed Properties, and Federal Policy: Some Implications for Housing and Community Development Planning [-@Immergluck2009]
+- **Matlack and Vigdor,** Do Rising Tides Lift All Prices? Income Inequality and Housing Affordability  [-@Matlack2008]
+- **Talen,** Zoning and Diversity in Historical Perspective [-@Talen2012]
+- **Whittemore,** How the Federal Government Zoned America: The Federal Housing Administration and Zoning [-@Whittemore2012]
+
+
+
+# References  
