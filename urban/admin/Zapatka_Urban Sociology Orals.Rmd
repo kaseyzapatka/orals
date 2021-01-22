@@ -1,0 +1,74 @@
+---
+title: "Urban Sociology Oral Exam Reading List"
+subtitle: "with Greg Smithsimon"
+author: "Kasey Zapatka"
+affiliation: "The Graduate Center, CUNY"
+bibliography: Orals.bib
+output: pdf_document
+
+---
+
+
+# Classic Readings in Urban Sociology
+
+- **DuBois,**  The Philadelphia Negro: A Social Study  [-@DuBois1996]
+- **Engels,**  The Condition of the Working Class in England  [-@Engels1987]
+- **Simmel,**  “The Metropolis and Mental Life” in _On Individuality and Social Forms: Selected Writings_  [-@Simmel1971]
+- **Wirth,**  Urbanism as a Way of Life?  [-@Wirth1938]
+- **Park, Burgess, and McKenzie,**  The City: Suggestions for Investigation of Human Behavior in the Urban Environment [^1] [-@Park1925]
+
+[^1]: Read only Chapters 1-3, 8, and 10
+
+# Urban Political Economy
+
+- **Florida,**  The New Urban Crisis [-@Florida2017]
+- **Harvey,**  From Managerialism to Entrepreneurialism: The Transformation in Urban Governance in Late Capitalism [-@Harvey1989]
+- **Logan and Molotch,**  Urban Fortunes: The Political Economy of Place  [-@Logan1987]
+- **Abu-Lughod,**  New York, Chicago, Los Angeles: America's Global Cities [-@Abu-Lughod1999] 
+- **Zukin,**  The Cultures of Cities [-@Zukin1995]
+
+
+# Urban Ethnography
+
+- **Anderson,**  Code of the Street: Decency, Violence, and the Moral Life of the Inner City [-@Anderson2000]
+- **Desmond,**  Evicted: Poverty and Profit in the American City  [-@Desmond2016]
+- **Duneier and Carter,** Sidewalk  [-@Duneier1999]
+- **Klinenberg,**  Heat Wave: A Social Autopsy of Disaster in Chicago [-@Klinenberg2002]
+- **Pattillo,**  Black on the Block: The Politics of Race and Class in the City  [-@Pattillo2007]
+
+# Gentrification
+
+- **Brown-Saracino,**  Explicating Divided Approaches to Gentrification and Growing Income Inequality [-@Brown-Saracino2017]
+- **Freeman,**  Displacement or Succession? Residential Mobility in Gentrifying Neighborhoods [-@Freeman2005]
+- **Hwang and Sampson,**  Divergent Pathways of Gentrification: Racial Inequality and the Social Order of Renewal in Chicago Neighborhoods [-@Hwang2014]
+- **Timberlake and Johns-Wolfe,**  Neighborhood Ethnoracial Composition and Gentrification in Chicago and New York, 1980 to 2010 [-@Timberlake2017]
+- **Zukin,**  Naked City: The Death and Life of Authentic Urban Places [-@Zukin2010]
+- **Hamnett,** The Blind Men and the Elephant: The Explanation of Gentrification  [-@Hamnett1991]
+
+
+# Residential Segregation and the Ghetto
+
+- **Anderson,**  The White Space [-@Anderson2015]
+- **Marcuse,**  The Enclave, The Citadel, and The Ghetto: What Has Changed in the Post-Fordist U.S. City [-@Marcuse1997]
+- **Massey and Denton,** American Apartheid: Segregation and the Making of the Underclass [-@Massey1993]
+- **Massey et. al.,** The Changing Bases of Segregation [-@Massey2009]
+- **Small,**  Four Reasons to Abandon the Idea of “The Ghetto” [-@Small2008]
+- **Steinberg,**  “The Myth of Concentrated Poverty” [-@Steinberg2010]
+- **Wacquant,**  Deadly Symbiosis: When Ghetto and Prison Meet and Mesh [-@Wacquant2001]
+- **Wilson,**  The Truly Disadvantaged: The Inner City, the Underclass, and Public Policy [-@Wilson1987]
+
+
+# Housing Policy, Zoning, and the Foreclosure Crisis
+
+- **Clark,**  Re-Examining the Moving to Opportunity Study and its Contribution to Changing the Distribution of Poverty and Ethnic Concentration  [-@Clark2008]
+- **Goetz,**  The Transformation of Public Housing Policy, 1985–2011  [-@Goetz2012]
+- **Immergluck,** The Foreclosure Crisis, Foreclosed Properties, and Federal Policy: Some Implications for Housing and Community Development Planning [-@Immergluck2009]
+- **Landis and McClure,** Rethinking Federal Housing Policy [-@Landis2010]
+- **Jacobs,**  The Death and Life of Great American Cities  [-@Jacobs1963]
+- **Rugh and Massey** Racial Segregation and the American Foreclosure Crisis [-@Rugh2010]
+- **Schwartz,**  Housing Policy in the United States  [-@Schwartz2015]
+- **Pattillo,** Housing: Commodity versus Right [-@Pattillo2013a]
+ 
+
+
+# References  
