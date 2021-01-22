@@ -1,0 +1,70 @@
+---
+title: "Quantitative Methods Orals"
+subtitle: "with Jeremy Porter"
+author: "Kasey Zapatka"
+affiliation: "The Graduate Center, CUNY"
+bibliography: Orals.bib
+output: pdf_document
+
+---
+
+# Logic of Inquiry
+- **Healey,**  The Essentials of Statistics: A Tool for Social Research  [-@Healey2016]
+- **Logan,**  Making a Place for Space: Spatial Thinking in Social Science  [-@Logan2012]
+
+# Ordinary Least Squares Regression 
+- **Allison,**  Multiple Regression: A Primer [-@Allison1999]
+- **Berry,** Understanding Regression Assumptions [-@Berry1993]
+- **Berry and Feldman,** Multiple Regression in Practice [-@Berry1985]
+- **Jaccard,** Interaction Effects in Multiple Regression [-@Jaccard2003]
+- **Schroeder,** Understanding Regression Analysis [-@Schroeder1985]
+
+# Application: OLS
+- **Faber and Ellen,** Race and the Housing Cycle: Differences in Home Equity Trends Among Long-Term Homeowners [-@Faber2016]
+- **Thompson and Keith,** The Blacker the Berry: Gender, Skin Tone, Self-Esteem, and Self-Efficacy [-@Thompson2001]
+
+# Logistic Regression 
+- **Agresti,** Categorical Data Analysis [-@Agresti2013]
+- **DeMaris,** A Tutorial in Logistic Regression [-@DeMaris1995]
+- **Long and Freese,** Regression Models for Categorical Dependent Variables using Stata [-@Long2014]
+- **Menard,** Applied Logistic Regression Analysis [-@Menard2002]
+- **Pampel,** Logistic Regression: A Primer [-@Pampel2000]
+- **Williams,** Using the Margins Command to Estimate and Interpret Adjusted Predictions and Marginal Effects [-@Williams2012]
+
+# Application: Logistic Regression
+- **Freeman and Braconi,** Gentrification and Displacement: New York City in the 1990s [-@freeman2004]
+- **Timberlake and Johns-Wolfe,** Neighborhood Ethnoracial Composition and Gentrification in Chicago and New York, 1980 to 2010 [-@Timberlake2017]
+
+# Hierarchical Linear Modeling
+- **Finch, Bolin, Kelley,** Multilevel Modeling Using R [-@Finch2014]
+- **Raudenbush and Bryk,** Hierarchical Linear Models: Applications and Data Analysis Methods [-@Raudenbush2002]
+
+# Application: Hierarchical Linear Modeling
+- **Leishman et.al.,** The Predictive Performance of Multilevel Models of Housing Sub-markets: A Comparative Analysis [-@Leishman2013] 
+- **Molina,** Foreclosures, Investors, and Uneven Development During the Great Recession in the Los Angeles Metropolitan Area [-@Molina2015]
+- **Sampson, Rauderbush, Earls** Neighborhoods and Violent crime: A Multilevel Study of Collective Efficacy [-@Sampson1997]  
+
+
+# Spatial Regression
+- **Anselin,** Spatial Econometrics: Methods and Models [-@Anselin1988]
+- **Anselin,** Under the Hood Issues in the Specification and Interpretation of Spatial Regression Models [-@Anselin2002]
+- **Anselin and Rey,** Properties of Tests for Spatial Dependence in Linear Regression Models [-@Anselin1991]
+- **Fotheringham, Brunsdon, and Charlton,** Geographically Weighted Regression: The Analysis of Spatially Varying Relationships [-@Fotheringham2002]
+- **Ward and Gleditsch,** Spatial Regression Models [-@Ward2008]
+
+
+# Application: Spatial Regression
+- **Cromley,** Neighborhood Characteristics and Depressive Symptoms of Older people: Local Spatial Analyses [-@Cromley2012]
+- **Gray,** District House Price Movements in England and Wales 1997–2007: An Exploratory Spatial Data Analysis Approach [-@Gray2012]
+- **Pijnenburg,** The Spatial Dimension of US House Prices [-@Pijnenburg2017]
+
+# Missing Data
+- **Allison,** Missing Data [-@Allison2001]
+- **Porter and Eckland,** Missing Data in Sociological Research: An Overview of Recent Trends and an Illustration for Controversial Questions, Active Nonrespondents, and Targeted Samples [-@Porter2012]
+- **Rubin,** Multiple Imputation after 18+ Years [-@Rubin1996]
+
+# Application: Missing Data
+- **Poston,** Missing Data and the Statistical Modeling of Adolescent Pregnancy [-@Poston2014]
+
+
+# References  
