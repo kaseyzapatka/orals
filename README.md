@@ -13,9 +13,9 @@ Contents
 Each folder contains the following: 
 
 - an `admin` sub-folder that has my lists, all photocopied lists from the departments records I thought was relevant, and a BibTex file that serves a bibliography. The .Rmd file can be `knit` together to create a pdf of my orals list. 
-- a `literature` sub-folder (not included on GitHub because of size constraints) has pdf copies of everything I read. See Dropbox link below.
+- a `literature` sub-folder (not included on GitHub because of size constraints) has pdf copies of everything I read. See Dropbox link below for a copy.
 - a `writeup` sub-folder up has my write-ups of the each of the sections as well as practice questions from each section and my bulleted answers
-- some contain a `book review` sub-folder that contains book reviews I found useful. Email me at kzapatka@gradcenter.cuny.edu for a copy
+- some contain a `book review` sub-folder that contains book reviews I found useful. See Dropbox link below for a copy.
 
 General thoughts
 ---
@@ -26,7 +26,7 @@ I found my approach to be helpful in organizing my thoughts and then giving myse
 
 There are lots of different ways to approach your orals exams; another approach might be more suited to your learning style. I know a few other in my department posed a few overarching questions for each section and then used the readings to answer them. In retrospect, this might have been a better approach for me, but I had already set my lists when I realized this. 
 
-Happy to talk more about this, just email me. 
+Happy to talk more about this, just email me: kzapatka@gradcenter.cuny.edu.
 
 [Dropbox link to literature sub-folders](https://www.dropbox.com/sh/oeklly3fgygzplf/AAAYBX6eZSDhzStECgaQp368a?dl=0).
 
