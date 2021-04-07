@@ -1,9 +1,11 @@
+# misc
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 .DS_Store
 .httr-oauth
+*.Rproj
 
 # folders
 book_reviews/
