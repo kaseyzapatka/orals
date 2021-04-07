@@ -12,7 +12,7 @@ Contents
 
 Each folder contains the following: 
 
-- an `admin` sub-folder that has my lists, all photocopied lists from the departments records I thought was relevant, and a BibTex file that serves a bibliography. 
+- an `admin` sub-folder that has my lists, all photocopied lists from the departments records I thought was relevant, and a BibTex file that serves a bibliography. The .Rmd file can be `knit` together to create a pdf of my orals list. 
 - a `literature` sub-folder (not included on GitHub because of size contraints) has pdf copies of everythigng I read. Email me at kzapatka@gradcenter.cuny.edu for a copy
 - a `writeup` sub-folder up has my write-ups of the each of the sections as well as practice questions from each section and my bulleted answers
 - some contain a `book review` sub-folder that contains book reviews I found useful. Email me at kzapatka@gradcenter.cuny.edu for a copy
