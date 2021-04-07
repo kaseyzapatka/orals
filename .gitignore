@@ -4,5 +4,10 @@
 .Ruserdata
 .DS_Store
 .httr-oauth
+
+# folders
 book_reviews/
 literature/
+
+# file types
+*.html
