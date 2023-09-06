@@ -28,7 +28,7 @@ There are lots of different ways to approach your orals exams; another approach 
 
 Happy to talk more about this, just email me: kzapatka@gradcenter.cuny.edu.
 
-[Dropbox link to literature sub-folders](https://www.dropbox.com/sh/peoqbiy9g0fq1tp/AACaZIfHmDHlck71BRFqOgdda?dl=0).
+[Dropbox link to literature sub-folders](https://www.dropbox.com/scl/fo/q3kthq1wdnyqyam3kqxra/h?rlkey=5q437fe5eh0rwmczrivgvblug&dl=0).
 
 
 
